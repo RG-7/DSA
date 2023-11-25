@@ -1,10 +1,13 @@
 ﻿# Assignment Code
 
+
 **Important Note:** 
 
 ```css
 Kindly feel free to check folder based on language prefrence. You Will find below mentioned topics inside it only.
 ```
+
+
 # Table of Contents
 
 1. [**LA_1: Arrays**](#array)
@@ -38,7 +41,7 @@ This repository contains solutions for various assignments related to different 
 4. Program to reverse array elements, find matrix multiplication, and transpose of a matrix.
 5. Program to find the sum of every row and column in a 2D array.
 
-## LA_2: Arrays Continued
+## LA_2: Arrays Continued<a id="arrays"></a>
 1. Implementation of the Binary search algorithm.
 2. Bubble Sort implementation.
 3. Logic to find a missing number in a sorted array.
@@ -51,7 +54,7 @@ This repository contains solutions for various assignments related to different 
 10. Spiral order traversal of a matrix.
 11. Generating a square matrix in spiral order.
 
-## LA_3: Stack
+## LA_3: Stack<a id="stack"></a>
 1. Menu-driven program for stack operations using an array.
 2. Reverse a string using a stack.
 3. Check balanced parentheses in an expression.
@@ -59,7 +62,7 @@ This repository contains solutions for various assignments related to different 
 5. Evaluate a postfix expression.
 6. Additional questions: Nearest smaller element, design stack with getMin().
 
-## LA_4: Queues
+## LA_4: Queues<a id="queus"></a>
 1. Menu-driven program for simple queue operations.
 2. Menu-driven program for circular queue operations.
 3. Interleave the first half of the queue with the second half.
@@ -67,14 +70,14 @@ This repository contains solutions for various assignments related to different 
 5. Implement a stack using two queues.
 6. Additional questions: Intersecting method for generating binary numbers, sorting a queue without extra space, page replacement algorithm (FIFO), LRU cache implementation.
 
-## LA_5: Singly Linked List
+## LA_5: Singly Linked List<a id="ll"></a>
 1. Menu-driven program for singly linked list operations.
 2. Count occurrences and delete all occurrences of a key.
 3. Find the middle of a linked list.
 4. Reverse a linked list.
 5. Additional questions: Reverse linked list, rotate list, add two polynomials using linked list, find intersection point of two linked lists.
 
-## LA_6: Circular and Doubly Linked List
+## LA_6: Circular and Doubly Linked List<a id="clldll"></a>
 1. Menu-driven program for circular and doubly linked list operations.
 2. Display all node values in a circular linked list.
 3. Find the size of a doubly linked list and a circular linked list.
@@ -82,11 +85,11 @@ This repository contains solutions for various assignments related to different 
 5. Check if a linked list is a circular linked list.
 6. Additional questions: Split a circular linked list into two halves, remove even parity nodes from a doubly and circular linked list, reverse a doubly linked list in groups, correct the random pointer in a doubly linked list, construct a doubly linked list from a 2D matrix.
 
-## LA_7: Sorting
+## LA_7: Sorting<a id="sorting"></a>
 1. Sorting techniques implementation: Selection Sort, Insertion Sort, Bubble Sort, Merge Sort, Quick Sort.
 2. Slightly improved selection sort logic.
 
-## LA_8: Binary Search Trees (BST)
+## LA_8: Binary Search Trees (BST)<a id="bst"></a>
 1. Program for binary tree traversals: Pre-order, In-order, Post-order using a recursive approach.
 2. Functions for Binary Search Trees: Search, Maximum, Minimum, In-order successor, In-order predecessor.
 3. Program for BST operations: Insert, Delete, Maximum depth, Minimum depth.
@@ -96,11 +99,11 @@ This repository contains solutions for various assignments related to different 
 7. Given in-order and post-order traversals, construct the Binary Tree.
 8. Program to merge two BSTs into a doubly-linked list in sorted order.
 
-## LA_9: Heaps
+## LA_9: Heaps<a id="heaps"></a>
 1. Heapsort implementation (Increasing/Decreasing order).
 2. Priority queues implementation using heaps.
 
-## LA_10: Graphs
+## LA_10: Graphs<a id="graphs"></a>
 1. Represent a graph using an adjacency matrix/list and perform basic operations.
 2. Implement breadth-first search algorithm.
 3. Implement depth-first search algorithm.
