@@ -13,24 +13,18 @@ Kindly feel free to check folder based on language prefrence. You Will find belo
 1. [**LA_1: Arrays**](#array)
 
 2. [**LA_2: Arrays Continued**](#arrays)
-
 3. [**LA_3: Stack**](#stack)
-
-4. [**LA_4: Queues**](#queues)
-
+4. [**LA_4: Queues**](#queus)
 5. [**LA_5: Singly Linked List**](#ll)
-
-
 6. [**LA_6: Circular and Doubly Linked List**](#clldll)
-
 7. [**LA_7: Sorting**](#sorting)
-
 8. [**LA_8: Binary Search Trees (BST)**](#bst)
-
 9. [**LA_9: Heaps**](#heaps)
-
 10. [**LA_10: Graphs**](#graphs)
+11. [**LA_11: Hash Table**](#hash)
 
+
+This repository contains solutions for various assignments related to different data structures and algorithms. Each assignment is organized into separate folders. Here's a brief overview of each assignment:
 
 This repository contains solutions for various assignments related to different data structures and algorithms. Each assignment is organized into separate folders. Here's a brief overview of each assignment:
 
@@ -110,3 +104,9 @@ This repository contains solutions for various assignments related to different 
 4. Implement Kruskal's minimum spanning tree algorithm.
 5. Implement Prim's minimum spanning tree algorithm.
 6. Implement Dijkstra's shortest path algorithm.
+
+## LA_11: Hash Table Assignment<a id="hash"></a>
+1. Write a program to determine the most frequent element in an array. If there are multiple elements that are appearing the maximum number of times, then print any one of them.
+2. An array A[] of n numbers and another number x is given to you. Write a program to check whether or not there exist two elements in A[] whose sum is exactly x.
+3. You are provided with two arrays. Write a program to find numbers which are present in the first array, but not present in the second array.
+4. Write a program that creates union and intersection lists from the two Linked Lists given as an input. The union list contains unique elements present in both the input Linked Lists and intersection list contains common elements present in the given lists. Order of elements in output lists doesn’t matter.
